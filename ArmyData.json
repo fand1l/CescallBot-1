@@ -1,0 +1,579 @@
+{
+  "1": {
+    "Name": "ПЗРК",
+    "id": "pams",
+    "type": "ground",
+    "ResNeed": {
+      "gold": 1,
+      "uranium": 0,
+      "titanium": 3,
+      "iron": 8,
+      "money": 50000
+    },
+    "Modify": {
+      "Cost": 32900
+    }
+  },
+
+  "2": {
+    "Name": "Танк",
+    "id": "tank",
+    "type": "ground",
+    "ResNeed": {
+      "gold": 7,
+      "uranium": 0,
+      "titanium": 13,
+      "iron": 34,
+      "money": 300000
+    },
+    "Modify": {
+      "Cost": 1500000
+    }
+  },
+
+  "3": {
+    "Name": "БМП",
+    "id": "bmp",
+    "type": "ground",
+    "ResNeed": {
+      "gold": 3,
+      "uranium": 0,
+      "titanium": 8,
+      "iron": 20,
+      "money": 120000
+    },
+    "Modify": {
+      "Cost": 1200000
+    }
+  },
+
+  "4": {
+    "Name": "БТР",
+    "id": "apc",
+    "type": "ground",
+    "ResNeed": {
+      "gold": 2,
+      "uranium": 0,
+      "titanium": 9,
+      "iron": 25,
+      "money": 90000
+    },
+    "Modify": {
+      "Cost": 1000000
+    }
+  },
+
+  "5": {
+    "Name": "Бронеавтомобиль",
+    "id": "armored_car",
+    "type": "ground",
+    "ResNeed": {
+      "gold": 4,
+      "uranium": 0,
+      "titanium": 7,
+      "iron": 17,
+      "money": 65000
+    },
+    "Modify": {
+      "Cost": 700000
+    }
+  },
+
+  "6": {
+    "Name": "САУ",
+    "id": "sam",
+    "type": "ground",
+    "ResNeed": {
+      "gold": 9,
+      "uranium": 0,
+      "titanium": 15,
+      "iron": 40,
+      "money": 250000
+    },
+    "Modify": {
+      "Cost": 3500000
+    }
+  },
+
+  "7": {
+    "Name": "Буксеруемая Гаубица",
+    "id": "towed_howitzer",
+    "type": "ground",
+    "ResNeed": {
+      "gold": 2,
+      "uranium": 0,
+      "titanium": 5,
+      "iron": 15,
+      "money": 60000
+    },
+    "Modify": {
+      "Cost": 400000
+    }
+  },
+
+  "8": {
+    "Name": "РСЗО",
+    "id": "mlrs",
+    "type": "ground",
+    "ResNeed": {
+      "gold": 16,
+      "uranium": 0,
+      "titanium": 23,
+      "iron": 45,
+      "money": 700000
+    },
+    "Modify": {
+      "Cost": 5600000
+    }
+  },
+
+  "9": {
+    "Name": "Транспортный Вертолёт",
+    "id": "transport_helicopter",
+    "type": "air",
+    "ResNeed": {
+      "gold": 40,
+      "uranium": 0,
+      "titanium": 61,
+      "iron": 136,
+      "money": 35000000
+    },
+    "Modify": {
+      "Cost": 11500000
+    }
+  },
+
+
+  "10": {
+    "Name": "Ударный Вертолёт",
+    "id": "attack_helicopter",
+    "type": "air",
+    "ResNeed": {
+      "gold": 43,
+      "uranium": 0,
+      "titanium": 66,
+      "iron": 143,
+      "money": 55000000
+    },
+    "Modify": {
+      "Cost": 23000000
+    }
+  },
+
+  "11": {
+    "Name": "Десантный Вертолёт",
+    "id": "airborne_helicopter",
+    "type": "air",
+    "ResNeed": {
+      "gold": 35,
+      "uranium": 0,
+      "titanium": 56,
+      "iron": 125,
+      "money": 28000000
+    },
+    "Modify": {
+      "Cost": 8900000
+    }
+  },
+
+  "12": {
+    "Name": "Истребитель",
+    "id": "fighter",
+    "type": "air",
+    "ResNeed": {
+      "gold": 63,
+      "uranium": 0,
+      "titanium": 87,
+      "iron": 158,
+      "money": 58000000
+    },
+    "Modify": {
+      "Cost": 37000000
+    }
+  },
+
+  "13": {
+    "Name": "Транспортный Самолёт",
+    "id": "transport_aircraft",
+    "type": "air",
+    "ResNeed": {
+      "gold": 37,
+      "uranium": 0,
+      "titanium": 49,
+      "iron": 98,
+      "money": 50000000
+    },
+    "Modify": {
+      "Cost": 24000000
+    }
+  },
+
+  "14": {
+    "Name": "Десантный Самолёт",
+    "id": "airborne_aircraft",
+    "type": "air",
+    "ResNeed": {
+      "gold": 35,
+      "uranium": 0,
+      "titanium": 44,
+      "iron": 87,
+      "money": 65000000
+    },
+    "Modify": {
+      "Cost": 18000000
+    }
+  },
+
+  "15": {
+    "Name": "Бомбардировщик",
+    "id": "bomber",
+    "type": "air",
+    "ResNeed": {
+      "gold": 78,
+      "uranium": 0,
+      "titanium": 97,
+      "iron": 163,
+      "money": 90000000
+    },
+    "Modify": {
+      "Cost": 73000000
+    }
+  },
+
+  "16": {
+    "Name": "Разведовательный БПЛА",
+    "id": "ruav",
+    "type": "air",
+    "ResNeed": {
+      "gold": 3,
+      "uranium": 0,
+      "titanium": 6,
+      "iron": 19,
+      "money": 110000
+    },
+    "Modify": {
+      "Cost": 20000
+    }
+  },
+
+  "17": {
+    "Name": "Ударный БПЛА",
+    "id": "auav",
+    "type": "air",
+    "ResNeed": {
+      "gold": 7,
+      "uranium": 0,
+      "titanium": 11,
+      "iron": 34,
+      "money": 190000
+    },
+    "Modify": {
+      "Cost": 130000
+    }
+  },
+
+  "18": {
+    "Name": "Дрон Камикадзе",
+    "id": "kuav",
+    "type": "air",
+    "ResNeed": {
+      "gold": 5,
+      "uranium": 0,
+      "titanium": 3,
+      "iron": 21,
+      "money": 350000
+    },
+    "Modify": {
+      "Cost": 210000
+
+    }
+  },
+
+  "19": {
+    "Name": "РЛС",
+    "id": "radar",
+    "type": "ground",
+    "ResNeed": {
+      "gold": 19,
+      "uranium": 0,
+      "titanium": 26,
+      "iron": 48,
+      "money": 590000
+    },
+    "Modify": {
+      "Cost": 0
+    }
+  },
+
+  "20": {
+    "Name": "Ракетный Комплекс",
+    "id": "missile_system",
+    "type": "ground",
+    "ResNeed": {
+      "gold": 52,
+      "uranium": 0,
+      "titanium": 82,
+      "iron": 121,
+      "money": 6000000
+    },
+    "Modify": {
+      "Cost": 2300000
+    }
+  },
+
+  "21": {
+    "Name": "Транспортный Корабль",
+    "id": "transport_ship",
+    "type": "sea",
+    "ResNeed": {
+      "gold": 50,
+      "uranium": 0,
+      "titanium": 59,
+      "iron": 98,
+      "money": 270000000
+    },
+    "Modify": {
+      "Cost": 120000000
+    }
+  },
+
+  "22": {
+    "Name": "Десантный Корабль",
+    "id": "landing_ship",
+    "type": "sea",
+    "ResNeed": {
+      "gold": 44,
+      "uranium": 0,
+      "titanium": 52,
+      "iron": 89,
+      "money": 350000000
+    },
+    "Modify": {
+      "Cost": 75000000
+    }
+  },
+
+  "23": {
+    "Name": "Авианосец",
+    "id": "aircraft_carrier",
+    "type": "sea",
+    "ResNeed": {
+      "gold": 78,
+      "uranium": 0,
+      "titanium": 110,
+      "iron": 389,
+      "money": 1100110011
+    },
+    "Modify": {
+      "Cost": 0
+    }
+  },
+
+  "24": {
+    "Name": "Ракетная Подводная Лодка",
+    "id": "missile_submarine",
+    "type": "sea",
+    "ResNeed": {
+      "gold": 67,
+      "uranium": 0,
+      "titanium": 93,
+      "iron": 270,
+      "money": 540000000
+    },
+    "Modify": {
+      "Cost": 0
+    }
+  },
+
+  "25": {
+    "Name": "Ядерная Подводная Лодка",
+    "id": "nuclear_submarine",
+    "type": "sea",
+    "ResNeed": {
+      "gold": 129,
+      "uranium": 56,
+      "titanium": 146,
+      "iron": 450,
+      "money": 990000000
+    },
+    "Modify": {
+      "Cost": 0
+    }
+  },
+
+  "26": {
+    "Name": "Катер",
+    "id": "speedboat",
+    "type": "sea",
+    "ResNeed": {
+      "gold": 0,
+      "uranium": 0,
+      "titanium": 0,
+      "iron": 10,
+      "money": 10000
+    },
+    "Modify": {
+      "Cost": 0
+    }
+  },
+
+  "27": {
+    "Name": "Ракета",
+    "id": "missile",
+    "type": "air",
+    "ResNeed": {
+      "gold": 14,
+      "uranium": 0,
+      "titanium": 7,
+      "iron": 18,
+      "money": 3400000
+    },
+    "Modify": {
+      "Cost": 1900000
+    }
+  },
+
+  "28": {
+    "Name": "МБР",
+    "id": "ibm",
+    "type": "air",
+    "ResNeed": {
+      "gold": 35,
+      "uranium": 0,
+      "titanium": 51,
+      "iron": 85,
+      "money": 25000000
+    },
+    "Modify": {
+      "Cost": 11000000
+    }
+  },
+
+  "29": {
+    "Name": "Бомба",
+    "id": "bomb",
+    "type": "air",
+    "ResNeed": {
+      "gold": 7,
+      "uranium": 0,
+      "titanium": 6,
+      "iron": 14,
+      "money": 850000
+    },
+    "Modify": {
+      "Cost": 420000
+    }
+  },
+      
+  "30": {
+    "Name": "Артиллерийский Снаряд",
+    "id": "artillery_shell",
+    "type": "air",
+    "ResNeed": {
+      "gold": 0,
+      "uranium": 0,
+      "titanium": 1,
+      "iron": 4,
+      "money": 5000
+    },
+    "Modify": {
+      "Cost": 6700
+    }
+  },
+      
+  "31": {
+    "Name": "Реактивный Снаряд",
+    "id": "rocket_projectile",
+    "type": "air",
+    "ResNeed": {
+      "gold": 2,
+      "uranium": 0,
+      "titanium": 1,
+      "iron": 13,
+      "money": 16000
+    },
+    "Modify": {
+      "Cost": 18900
+    }
+  },
+      
+  "32": {
+    "Name": "Ядерная Ракета",
+    "id": "nuclear_missile",
+    "type": "nuke",
+    "ResNeed": {
+      "gold": 210,
+      "uranium": 152,
+      "titanium": 421,
+      "iron": 999,
+      "money": 631001909
+    },
+    "Modify": {
+      "Cost": 0
+    }
+  },
+      
+  "33": {
+    "Name": "Ядерная Бомба",
+    "id": "nuclear_bomb",
+    "type": "nuke",
+    "ResNeed": {
+      "gold": 198,
+      "uranium": 143,
+      "titanium": 398,
+      "iron": 899,
+      "money": 420999000
+    },
+    "Modify": {
+      "Cost": 0
+    }
+  },
+      
+  "34": {
+    "Name": "Химическая Бомба",
+    "id": "chemical_bomb",
+    "type": "chemical",
+    "ResNeed": {
+      "gold": 139,
+      "uranium": 102,
+      "titanium": 287,
+      "iron": 591,
+      "money": 340009009
+    },
+    "Modify": {
+      "Cost": 0
+    }
+  },
+      
+  "35": {
+    "Name": "Винтовка",
+    "id": "rifle",
+    "type": "ground",
+    "ResNeed": {
+      "gold": 0,
+      "uranium": 0,
+      "titanium": 0,
+      "iron": 0,
+      "money": 1000
+    },
+    "Modify": {
+      "Cost": 0
+    }
+  },
+      
+  "36": {
+    "Name": "Экипировка",
+    "id": "equipment",
+    "type": "ground",
+    "ResNeed": {
+      "gold": 0,
+      "uranium": 0,
+      "titanium": 0,
+      "iron": 0,
+      "money": 1200
+    },
+    "Modify": {
+      "Cost": 1000
+    }
+  }
+}

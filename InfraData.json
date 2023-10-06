@@ -1,0 +1,99 @@
+{
+  "1": {
+    "name": "Дом",
+    "id": "house",
+    "max": 100,
+    "building-materials": 12000
+  },
+
+  "2": {
+    "name": "Многоэтажний Дом",
+    "id": "multi_house",
+    "max": 50,
+    "building-materials": 23000
+  },
+
+  "3": {
+    "name": "Сеть Продуктовых Магазинов",
+    "id": "com_shops",
+    "max": 30,
+    "building-materials": 8900
+  },
+
+  "4": {
+    "name": "Сеть Магазинов Электронники",
+    "id": "com_electronics",
+    "max": 20,
+    "building-materials": 15800
+  },
+
+  "5": {
+    "name": "Сеть Автосалонов",
+    "id": "com_cars",
+    "max": 8,
+    "building-materials": 67100
+  },
+
+  "6": {
+    "name": "IT Компании",
+    "id": "com_it",
+    "max": 6,
+    "building-materials": 32000
+  },
+
+  "7": {
+    "name": "Сеть Военных Магазинов",
+    "id": "com_army",
+    "max": 13,
+    "building-materials": 71000
+  },
+
+  "8": {
+    "name": "Сеть Строительних Компаний",
+    "id": "com_buildings",
+    "max": 15,
+    "building-materials": 52000
+  },
+
+  "9": {
+    "name": "Сеть Больниц",
+    "id": "com_hospitals",
+    "max": 20,
+    "building-materials": 40900
+  },
+
+  "10": {
+    "name": "Завод Сухопутной Техники",
+    "id": "land_equipment_plant",
+    "max": 1,
+    "building-materials": 320000
+  },
+
+  "11": {
+    "name": "Авиационный Завод",
+    "id": "aviation_factory",
+    "max": 1,
+    "building-materials": 410000
+  },
+
+  "12": {
+    "name": "Верфь",
+    "id": "shipyard",
+    "max": 1,
+    "building-materials": 470000
+  },
+
+  "13": {
+    "name": "Ядерный завод",
+    "id": "nuclear_factory",
+    "max": 1,
+    "building-materials": 810000
+  },
+
+  "14": {
+    "name": "Химический завод",
+    "id": "chemical_factory",
+    "max": 1,
+    "building-materials": 740000
+  }
+}
